@@ -1,1 +1,1 @@
-<h1>Comparador feito na aula da Porfessora Stephany</h1>
+<h1>Comparador feito na aula da Professora Stephany</h1>
